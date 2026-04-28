@@ -1,18 +1,18 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([
   ["intro"],
   {
-    // Módulo de estilos (probablemente vacío o importación de CSS)
+
     "0b16": function(t, e, a) {
       "use strict";
       a("8b10");
     },
 
-    // Módulo principal del componente "Introducción"
+   
     5167: function(t, e, a) {
       "use strict";
       a.r(e);
 
-      // Función de Renderizado (Estructura de la vista)
+   
       var i = function() {
         var t = this,
           e = t.$createElement,
@@ -25,7 +25,7 @@
         );
       };
 
-      // Funciones Estáticas (El contenido HTML del video e introducción)
+   
       var n = [
         function() {
           var t = this,
@@ -73,7 +73,7 @@
         }
       ];
 
-      // Definición del componente Vue
+     
       var r = {
           name: "Introduccion",
           data: function() {
@@ -87,7 +87,7 @@
       e["default"] = s.exports;
     },
 
-    // Módulo de estilos vacío
+  
     "8b10": function(t, e, a) {}
   }
 ]);
